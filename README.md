@@ -12,3 +12,6 @@ and I am using the same 16 pins on Arduino
 
 I have made a function to show a 2-dimensional array as the screen
 
+see a video of Game of Life on the matrix
+
+https://youtu.be/qdPwdIC5bxE
